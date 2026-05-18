@@ -1,0 +1,6 @@
+{
+  "name": "widi-ticket-pruefung",
+  "version": "1.0.0",
+  "description": "WIDI Gebäudeservice – Automatische Ticket-Prüfung",
+  "private": true
+}
